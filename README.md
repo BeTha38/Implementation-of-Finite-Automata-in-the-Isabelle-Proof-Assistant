@@ -5,7 +5,8 @@ A central result of this work is the formal verification of the equivalence in e
 - NFAs and Epsilon-NFAs, ''
 - NFAs and regular expressions, ''
 - NFAs and right regular grammars, ''
-- NFAs and left regular grammars.
+- NFAs and left regular grammars, ''.
+
 Furthermore, it is formally proven that the class of languages recognized by finite automata is closed under the operations of intersection, union, complementation, reversal, concatenation and kleene-star-closure.
 In addition, Brzozowksi's algorithm for DFA minimization is implemented and verified, i.e. for every NFA there exists an unique (up to renaming its states) DFA accepting the same language.
 
