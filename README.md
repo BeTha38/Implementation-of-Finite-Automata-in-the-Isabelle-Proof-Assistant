@@ -16,6 +16,7 @@ Furthermore, it is formally proved that the class of regular languages is closed
 - reversal
 - concatenation
 - Kleene star
+- finite languages
 
 In addition, Brzozowski’s algorithm for DFA minimization is implemented and verified: for every NFA there exists a unique (up to renaming of states) minimal DFA accepting the same language.
 
